@@ -4,7 +4,7 @@ import { MyPosts } from './MyPosts/MyPosts';
 
 export const Profile = () => {
     return (
-        <div className={s.content}>
+        <div>
             <div>
                 <img width="1000" src = "https://wallpapers.com/images/hd/dual-monitor-background-eycrdqoprfo59obs.jpg" alt="" />
             </div>

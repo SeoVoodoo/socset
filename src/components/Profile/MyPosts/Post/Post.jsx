@@ -7,7 +7,7 @@ export const Post = (props) => {
             <img src="https://sun9-33.userapi.com/c854528/v854528061/20a930/mdBGplDIEzk.jpg?ava=1" alt="" />
             {props.message}
             <div>
-                <span>{props.likeCount}</span>
+                <span>like</span> {props.likeCount}
             </div>
         </div>
     )   
